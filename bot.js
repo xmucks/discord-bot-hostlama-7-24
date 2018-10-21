@@ -208,3 +208,4 @@ client.on('message', msg => {
     msg.reply('WOW COOL ÇOCUK OLDUN LOL DEMEKLE :fire: ^^');
   }
 });
+client.login(process.env.BOT_TOKEN);
